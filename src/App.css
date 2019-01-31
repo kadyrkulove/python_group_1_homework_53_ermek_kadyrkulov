@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.button {
+  width: 500px;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 3px;
+}
+
+.div {
+  margin: 10px;
+}
